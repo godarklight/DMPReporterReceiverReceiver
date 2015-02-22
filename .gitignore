@@ -1,0 +1,8 @@
+*.orig
+*.exe
+*.dll
+*.userprefs
+DMPReporterReceiverReceiver/bin/*
+DMPReporterReceiverReceiver/obj/*
+*.suo
+*.csproj.user
